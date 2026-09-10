@@ -8,9 +8,9 @@ Simple Interest = (Principal x Rate x Time) / 100
 
 ## Inputs
 
-- Principal amount
-- Annual rate of interest
-- Time period in years
+* Principal amount
+* Annual rate of interest
+* Time period in years
 
 ## Output
 
@@ -23,3 +23,4 @@ Enter the principal amount, rate of interest, and time period. The calculator wi
 ## Author
 
 Sufiyan
+
