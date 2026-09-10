@@ -1,6 +1,7 @@
-git branch -a
+git branch -a -vv
 
-* main
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/bug-fix-typo
-  remotes/origin/main
+bug-fix-typo                f4ecafc [origin/bug-fix-typo] Add pull request verification
+* main                      f09faa5 [origin/main] Merge IBM assignment files
+  remotes/origin/HEAD       -> origin/main
+  remotes/origin/bug-fix-typo f4ecafc Add pull request verification
+  remotes/origin/main       f09faa5 Merge IBM assignment files
